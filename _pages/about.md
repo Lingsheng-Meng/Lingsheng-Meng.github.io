@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. candidate at [Bio-Motion Systems Lab](https://sites.psu.edu/mongeau/). I am fortunately to be advised by Prof. [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/). Before joining Penn State, I obtained my BEng from Tsinghua University. I work on neuromechanical control with a focus on the mechanics of the cockroach's antennae and nervous system.
+I am currently a Ph.D. candidate at [Bio-Motion Systems Lab](https://sites.psu.edu/mongeau/). I am fortunately to be advised by Prof. [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/). Before joining Penn State, I obtained my BEng from Tsinghua University. I work on neuromechanical control with a focus on the tactile mechanics of the cockroach's antennae and nervous system.
 
 
 A data-driven personal website
