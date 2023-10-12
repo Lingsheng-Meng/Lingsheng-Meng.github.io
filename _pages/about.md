@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am currently a Ph.D. candidate at [Bio-Motion Systems Lab](https://sites.psu.edu/mongeau/). I am fortunately to be advised by Prof.[Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/).
+I am currently a Ph.D. candidate at [Bio-Motion Systems Lab](https://sites.psu.edu/mongeau/). I am fortunately to be advised by Prof.[Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/). Before joining Penn State, I obtained my BEng from Tsinghua University. 
 
 
 A data-driven personal website
