@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Lingsheng Meng, a third-year Ph.D. student at Penn State, majoring in [Mechanical Engineering](https://www.me.psu.edu/). 
+I am currently a Ph.D. candidate at [Bio-Motion Systems Lab](https://sites.psu.edu/mongeau/). I am fortunately to be advised by Prof.[Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/).
 
 
 A data-driven personal website
