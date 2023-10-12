@@ -16,14 +16,15 @@ Education
 * Aug. 2015 --- Jul. 2019: B.E. in Vehicle Engineering, [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/index.html), Tsinghua University
 * Sept. 2016 --- Jul.2019: B.A. in Economics (Second bachelor's degree), School of Economics and Management, Tsinghua University
 
-Getting started
+Honors and Awards
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+* The Special Award of The 16th National Challenge Cup  (**Top 1%**)  Nov. 2019
+* “Excellent Thesis” award in School of Vehicle and Mobility  (**10 out of 90**)  Jul. 2019 
+* The Special Award of The 10th Beijing Challenge Cup  (**Top 3-5%**)  May. 2019 
+* The Special Award of The 36th Tsinghua University Challenge Cup  (**6 out of 302**)  Apr. 2018
+* Science and Technology Innovation Excellence Award  2018
+* Social Work Excellence Award  2017, 2018
+* Academic Progress Award  2016
 
 Site-wide configuration
 ------
