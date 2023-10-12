@@ -18,13 +18,13 @@ Education
 
 Honors and Awards
 ======
-* The Special Award of The 16th National Challenge Cup  (**Top 1%**)  Nov. 2019
-* “Excellent Thesis” award in School of Vehicle and Mobility  (**10 out of 90**)  Jul. 2019 
-* The Special Award of The 10th Beijing Challenge Cup  (**Top 3-5%**)  May. 2019 
-* The Special Award of The 36th Tsinghua University Challenge Cup  (**6 out of 302**)  Apr. 2018
-* Science and Technology Innovation Excellence Award  2018
-* Social Work Excellence Award  2017, 2018
-* Academic Progress Award  2016
+* The Special Award of The 16th National Challenge Cup      (**Top 1%**)      Nov. 2019
+* “Excellent Thesis” award in School of Vehicle and Mobility      (**10 out of 90**)      Jul. 2019 
+* The Special Award of The 10th Beijing Challenge Cup      (**Top 3-5%**)      May. 2019 
+* The Special Award of The 36th Tsinghua University Challenge Cup      (**6 out of 302**)      Apr. 2018
+* Science and Technology Innovation Excellence Award      2018
+* Social Work Excellence Award      2017, 2018
+* Academic Progress Award      2016
 
 
 <script>
