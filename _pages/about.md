@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am Lingsheng Meng, a thrid-year Ph.D. student at Penn State, majoring in [Mechanical Engineering](https://www.me.psu.edu/).
+I am Lingsheng Meng, a third-year Ph.D. student at Penn State, majoring in [Mechanical Engineering](https://www.me.psu.edu/). 
 
 
 A data-driven personal website
