@@ -10,11 +10,11 @@ redirect_from:
 I am currently a Ph.D. candidate at [Bio-Motion Systems Lab](https://sites.psu.edu/mongeau/). I am fortunately to be advised by Prof. [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/). Before joining Penn State, I obtained my BEng from Tsinghua University. I work on neuromechanical control with a focus on the tactile mechanics of the cockroach's antennae and nervous system.
 
 
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
-
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+* Aug. 2021 --- May 2026: Ph.D. in [Mechanical Engineering](https://www.me.psu.edu/), College of Engineering, The Pennsylvania State University (expected)
+* Aug. 2015 --- Jul. 2019: B.E. in Vehicle Engineering, [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/index.html), Tsinghua University
+* Sept. 2016 --- Jul.2019: B.A. in Economics (Second bachelor's degree), School of Economics and Management, Tsinghua University
 
 Getting started
 ======
