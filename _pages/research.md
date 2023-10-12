@@ -8,8 +8,7 @@ redirect_from:
 ---
 
 # Research interests
-* B.E. in Vehicle Engineering, Tsinghua University, 2019
-* Ph.D in Mechanical Engineering, The Pennsylvania State University, 2026 (expected)
+Neuromechanics, Control of Locomotion, Experimental Robotics, FEA
 
 ***
 # Projects
