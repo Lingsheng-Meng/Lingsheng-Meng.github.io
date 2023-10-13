@@ -16,8 +16,10 @@ Education
 
 Research experience
 ======
-* Jan.2023 - present: Research Assistant (ongoing Thesis)
+* **Cockroach Antenna Tactile Signal Processing**
+  * Jan.2023 - present: Research Assistant (ongoing Thesis)
   * Penn State
+  * Supervisor: Professor Jean-Michel Mongeau
     * Obtained precise mechanical sensilla distribution in the antenna through a comprehensive review of literature, micro-CT, and SEM scanning. Segmented the 3D structure of strain sensilla from micro-CT data.
     * Developed a model of the antenna to link tactile features to distinct patterns on soft sensors using the [MuJoCo](https://mujoco.readthedocs.io/en/stable/overview.html) physics engine.
 
