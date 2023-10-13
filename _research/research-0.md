@@ -2,7 +2,7 @@
 title: "Re item number 33"
 collection: research
 excerpt: "Short description of research item number 3<br/><img src='/images/500x300.png'>"
-permalink: /research/research-3
+permalink: /research/research-0
 date: 2015-01-01
 ---
 
