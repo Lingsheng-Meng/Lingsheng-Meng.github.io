@@ -1,6 +1,7 @@
 ---
 title: "Portfolio item number 1"
 excerpt: "Short description of research item number 1<br/><img src='/images/500x300.png'>"
+permalink: /research/research-1
 collection: research
 ---
 
