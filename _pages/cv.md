@@ -29,10 +29,20 @@ Research experience
     * Acquired and analyzed 6 experimental datasets on wing damage in rigid tethered flies during flight, with a focus on studying wingbeat frequency changes following perturbations.
     * Performed 3D flight behavior reconstruction for 10 flies to derive wing Euler angles, using a custom 3D reconstruction software. These tasks assisted lab senior Dr.[Wael Salem](https://www.linkedin.com/in/wael-salem/) in his [dissertation](https://etda.libraries.psu.edu/catalog/19881was29).
 ---
+
 * **Fly’s Neuronal Activity Experiment Setup using Two-Photon Microscopy** \| Penn State
   * May 2022 - Aug.2022: Research Assistant
   * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
     * Designed adjustable-angle mounting for the semicylinder LED arena and a temperature control saline system for the fly holder in the two-photon microscopy area.
+---
+
+* **Reconstructing Pediatric-Fall Induced Head Injuries** \| University of Michigan
+  * Aug. 2019 - Dec.2019: Research Assistant
+  * Supervisor: Professor [Jingwen Hu](https://sites.google.com/umich.edu/jingwenhu/home)
+    * Utilized [Mimics](https://www.materialise.com/en/healthcare/mimics-innovation-suite/mimics) software to generate 3 subject-specific CT-derived geometric models and finite element models.
+    * Employed 29 reconstructed investigative fall data to derive injury predictive parameters using FEA in [LS-DYNA (Ansys)](Employed 29 reconstructed investigative fall data to derive injury predictive parameters using FEA in LS-DYNA.).
+    * Published a conference paper in [IRCOBI 2020](http://www.ircobi.org/wordpress/downloads/irc20-asia/pdf-files/2046a.pdf) as the second author.
+---
 
 Work experience
 ======
