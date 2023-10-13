@@ -12,14 +12,15 @@ redirect_from:
 Education
 ======
 * B.E. in Vehicle Engineering, Tsinghua University, 2019
-* Ph.D in Mechanical Engineering, The Pennsylvania State University, 2026 (expected)
+* Ph.D. in Mechanical Engineering, The Pennsylvania State University, 2026 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2018: Assistant Engineer
+  * [Dongfeng Motor Corporation Technical Center](http://www.dongfeng-global.com/)
+    * Helped with the Kinematics and compliance (K&C) testing for prototype cars.
+    * Conducted statistical analysis on data obtained from bounce test, roll test, lateral and longitudinal compliance tests
+
 
 * Fall 2015: Research Assistant
   * Github University
