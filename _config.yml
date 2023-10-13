@@ -252,10 +252,9 @@ defaults:
       path: ""
       type: research
     values:
-      layout: single
+      layout: talk
       author_profile: true
       share: true
-      comment: true
 
 # Sass/SCSS
 sass:
