@@ -16,7 +16,7 @@ Education
 
 Research experience
 ======
-* <div style="text-align: left;">**Cockroach Antenna Tactile Signal Processing**</div> <div style="text-align: right;">Penn State</div>
+* <div style="text-align: left;">**Cockroach Antenna Tactile Signal Processing**</div><div style="text-align: right;">Penn State</div>
   * Jan.2023 - present: Research Assistant (ongoing Thesis)
   * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
     * Obtained precise mechanical sensilla distribution in the antenna through a comprehensive review of literature, micro-CT, and SEM scanning. Segmented the 3D structure of strain sensilla from micro-CT data.
