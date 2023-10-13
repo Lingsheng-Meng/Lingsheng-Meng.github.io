@@ -37,7 +37,7 @@ Research experience
   * Aug. 2019 - Dec.2019: Research Assistant
   * Supervisor: Professor [Jingwen Hu](https://sites.google.com/umich.edu/jingwenhu/home)
     * Utilized [Mimics](https://www.materialise.com/en/healthcare/mimics-innovation-suite/mimics) software to generate 3 subject-specific CT-derived geometric models and finite element models.
-    * Employed 29 reconstructed investigative fall data to derive injury predictive parameters using FEA in [LS-DYNA (Ansys)](Employed 29 reconstructed investigative fall data to derive injury predictive parameters using FEA in LS-DYNA.).
+    * Employed 29 reconstructed investigative fall data to derive injury predictive parameters using FEA in [LS-DYNA (Ansys)](https://www.ansys.com/products/structures/ansys-ls-dyna).
     * Published a conference paper in [IRCOBI 2020](http://www.ircobi.org/wordpress/downloads/irc20-asia/pdf-files/2046a.pdf) as the second author.
 
 Work experience
