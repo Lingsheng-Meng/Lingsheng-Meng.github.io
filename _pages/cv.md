@@ -28,6 +28,11 @@ Research experience
   * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
     * Acquired and analyzed 6 experimental datasets on wing damage in rigid tethered flies during flight, with a focus on studying wingbeat frequency changes following perturbations.
     * Performed 3D flight behavior reconstruction for 10 flies to derive wing Euler angles, using a custom 3D reconstruction software. These tasks assisted lab senior Dr.[Wael Salem](https://www.linkedin.com/in/wael-salem/) in his [dissertation](https://etda.libraries.psu.edu/catalog/19881was29).
+---
+* **Fly’s Neuronal Activity Experiment Setup using Two-Photon Microscopy** \| Penn State
+  * May 2022 - Aug.2022: Research Assistant
+  * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
+    * Designed adjustable-angle mounting for the semicylinder LED arena and a temperature control saline system for the fly holder in the two-photon microscopy area.
 
 Work experience
 ======
