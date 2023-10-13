@@ -16,7 +16,6 @@ Education
 
 Research experience
 ======
-<!--* <div style="text-align: left;">**Cockroach Antenna Tactile Signal Processing**</div><div style="text-align: right;">Penn State</div> -->
 * **Cockroach Antenna Tactile Signal Processing** \| Penn State
   * Jan.2023 - present: Research Assistant (ongoing Thesis)
   * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
