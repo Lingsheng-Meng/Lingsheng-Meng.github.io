@@ -14,3 +14,4 @@ During this research, I carried out the following tasks:
 * Published a conference paper in [IRCOBI 2020](http://www.ircobi.org/wordpress/downloads/irc20-asia/pdf-files/2046a.pdf) as the second author.
  
 ![An example of pediatric fall reconstructions using subject-specific FE head models](../images/UMTRI.png)
+*An example of pediatric fall reconstructions using subject-specific FE head models*
