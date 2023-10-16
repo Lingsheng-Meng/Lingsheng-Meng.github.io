@@ -12,4 +12,5 @@ During this research, I carried out the following tasks:
 * Employed 29 reconstructed investigative fall data to derive injury predictive parameters using FEA in [LS-DYNA (Ansys)](https://www.ansys.com/products/structures/ansys-ls-dyna).
 * Conducted data analysis (logistic regression) on the simulation data to develop the injury risk curves.
 * Published a conference paper in [IRCOBI 2020](http://www.ircobi.org/wordpress/downloads/irc20-asia/pdf-files/2046a.pdf) as the second author.
-![Image Alt Text](image URL "Image Title")
+ 
+![An example of pediatric fall reconstructions using subject-specific FE head models]('/images/UMTRI.png')
