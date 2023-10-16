@@ -33,7 +33,7 @@ Research experience
   * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
     * Designed adjustable-angle mounting for the semicylinder LED arena and a temperature control saline system for the fly holder in the two-photon microscopy area.
 
-* **Reconstructing Pediatric-Fall Induced Head Injuries** \| University of Michigan
+* [**Reconstructing Pediatric-Fall Induced Head Injuries**](https://lingsheng-meng.github.io/research/research-0) \| University of Michigan
   * Aug. 2019 - Dec.2019: Research Assistant
   * Supervisor: Professor [Jingwen Hu](https://sites.google.com/umich.edu/jingwenhu/home)
     * Utilized [Mimics](https://www.materialise.com/en/healthcare/mimics-innovation-suite/mimics) software to generate 3 subject-specific CT-derived geometric models and finite element models.
