@@ -8,14 +8,16 @@ date: 2022-8-8
 
 Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/) 
 
-As a student intern, I have been involved in addressing the critical issue of pediatric head/brain injuries research supported by National Institute of Justice (NIJ). These injuries are a primary cause of pediatric mortality, disability, and healthcare expenses. Unfortunately, there is a significant lack of anthropometric and mechanical response data specific to pediatric heads. To tackle this problem, I utilized subject-specific finite element (FE) models to undertake the reconstruction of head injury events. These particular models, which focused on the statistical geometry of the pediatric skull for children aged between 0 and 3 years, were interconnected with a baseline FE head model. This morphing based on the radial basis function (RBF) allowed for the rapid transformation of the base model into various geometries that accurately represented children of different ages and sizes. Following the successful reconstruction of 29 head injury events, I proceeded to employ logistic regression in order to develop the pediatric skull and brain injury risk curves. These risk curves will improve the assessment of pediatric head injuries arising from falls and incidents of child abuse.  
+As a graduate student in the laboratory, I have participated in research focused on recording the activities of neurons in flies in order to understand the connection between neuron control and bio-motion. I was trained to tether fruit flies to the fly holder without causing any injury. Taking on a leading role in the experimental setup, I constructed the fly holder according to the [previous design](https://ptweir.github.io/flyHolder/#finished) and created a mounting system with adjustable angles for the semicylinder LED arena. Additionally, I developed a temperature control saline system for the fly holder in the two-photon microscopy area. Furthermore, I received training in aligning the [Sapphire Femtosecond Laser for Two-Photon Microscopy](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=8323).  
 
-  
 During this research, I carried out the following tasks:  
-* Utilized [Mimics](https://www.materialise.com/en/healthcare/mimics-innovation-suite/mimics) software to generate 3 subject-specific CT-derived geometric models and finite element models.
-* Employed 29 reconstructed investigative fall data to derive injury predictive parameters using FEA in [LS-DYNA (Ansys)](https://www.ansys.com/products/structures/ansys-ls-dyna).
-* Conducted data analysis (logistic regression) on the simulation data to develop the injury risk curves.
-* Published a conference paper in [IRCOBI 2020](http://www.ircobi.org/wordpress/downloads/irc20-asia/pdf-files/2046a.pdf) as the second author.
- 
+* Learned to tether fruit flies to the static and flying fly holders.
+* Learned and documented the fruit flies' head dissection to explore the brain under the 2-photon microscopy.
+* Constructed the flying fly holders and the brass tube holder in the anesthesia system in the [learning factory](https://www.lf.psu.edu/).
+* Designed and developed a versatile angle-adjustable mounting system for the arena and fly holder. Constructed the bill of material (BOM) and successfully assembled all the components.
+* Designed and developed a temperature control saline system for the fly holder. Constructed the bill of material (BOM) and successfully assembled all the components.
+* Received training in aligning the laser.
+* Imaged the calcium activity in neurons of flies in 2-photon microscopy.
+
 ![An example of pediatric fall reconstructions using subject-specific FE head models](../images/UMTRI.png)  
 <p align="left"><i>An example of pediatric fall reconstructions using subject-specific FE head models</i></p>
