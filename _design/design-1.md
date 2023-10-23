@@ -1,7 +1,7 @@
 ---
 title: "Fly’s Neuronal Activity Experiment Setup using Two-Photon Microscopy"
 collection: design
-excerpt: "Describption<br/><img src='/images/UMTRI.png'>"
+excerpt: "Describption<br/><img src='images/2psetup.png'>"
 permalink: /design/design-1
 date: 2022-8-8
 ---
@@ -19,5 +19,5 @@ During this research, I carried out the following tasks:
 * Received training in aligning the laser.
 * Imaged the calcium activity in neurons of flies in 2-photon microscopy.
 
-![An example of pediatric fall reconstructions using subject-specific FE head models](../images/UMTRI.png)  
-<p align="left"><i>An example of pediatric fall reconstructions using subject-specific FE head models</i></p>
+![2-photon experiment setup](../images/2psetup.png)  
+<p align="left"><i>(a) The 2-photon experiment setup in SolidWorks. (b) The real setup. Changed the fly holder mounting stage to the left side for a better user experience when finding the head under microscopy. (c) Saline system for the fly holder to maintain the temperature of the brain. (d) Calcium imaging of flies.</i></p>
