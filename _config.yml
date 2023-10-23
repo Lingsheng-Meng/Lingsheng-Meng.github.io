@@ -190,6 +190,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  design:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -251,8 +254,15 @@ defaults:
   - scope:
       path: ""
       type: research
-    values:
-      layout: single
+    valusingles:
+      layout: e
+      author_profile: true
+   # _design
+  - scope:
+      path: ""
+      type: design
+    valusingles:
+      layout: e
       author_profile: true
 
 # Sass/SCSS
