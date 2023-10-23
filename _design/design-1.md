@@ -6,7 +6,7 @@ permalink: /design/design-1
 date: 2022-8-8
 ---
 
-Supervisor: Professor [Jingwen Hu](https://sites.google.com/umich.edu/jingwenhu/home)  
+Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/) 
 
 As a student intern, I have been involved in addressing the critical issue of pediatric head/brain injuries research supported by National Institute of Justice (NIJ). These injuries are a primary cause of pediatric mortality, disability, and healthcare expenses. Unfortunately, there is a significant lack of anthropometric and mechanical response data specific to pediatric heads. To tackle this problem, I utilized subject-specific finite element (FE) models to undertake the reconstruction of head injury events. These particular models, which focused on the statistical geometry of the pediatric skull for children aged between 0 and 3 years, were interconnected with a baseline FE head model. This morphing based on the radial basis function (RBF) allowed for the rapid transformation of the base model into various geometries that accurately represented children of different ages and sizes. Following the successful reconstruction of 29 head injury events, I proceeded to employ logistic regression in order to develop the pediatric skull and brain injury risk curves. These risk curves will improve the assessment of pediatric head injuries arising from falls and incidents of child abuse.  
 
