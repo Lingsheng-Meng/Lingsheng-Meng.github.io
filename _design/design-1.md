@@ -1,9 +1,9 @@
 ---
-title: "Reconstructing Pediatric-Fall-Induced Head Injuries with Subject-Specific Finite Element Head Models"
-collection: research
-excerpt: "Reconstructions of head-injury events using computational models<br/><img src='/images/UMTRI.png'>"
-permalink: /research/research-0
-date: 2019-12-15
+title: "Fly’s Neuronal Activity Experiment Setup using Two-Photon Microscopy"
+collection: design
+excerpt: "Describption<br/><img src='/images/UMTRI.png'>"
+permalink: /design/design-1
+date: 2022-8-8
 ---
 
 As a student intern
