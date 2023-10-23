@@ -15,7 +15,7 @@ During this research, I carried out the following tasks:
 * Learned and documented the fruit flies' head dissection to explore the brain under the 2-photon microscopy.
 * Constructed the flying fly holders and the brass tube holder in the anesthesia system in the [learning factory](https://www.lf.psu.edu/).
 * Designed and developed a versatile angle-adjustable mounting system for the arena and fly holder. Constructed the bill of material (BOM) and successfully assembled all the components.
-* Designed and developed a temperature control saline system for the fly holder. Constructed the bill of material (BOM) and successfully assembled all the components.
+* Designed and developed a temperature control saline system for the fly holder. Constructed the BOM and successfully assembled all the components.
 * Received training in aligning the laser.
 * Crossed flies in the GAL4-UAS system to obtain the GAL4-GCaMP flies for 2-photon microscopy.
 * Imaged the calcium activity in neurons of flies in 2-photon microscopy.
