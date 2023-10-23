@@ -190,6 +190,9 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
+  design:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
@@ -254,7 +257,14 @@ defaults:
     values:
       layout: single
       author_profile: true
-
+    # _design
+  - scope:
+      path: ""
+      type: design
+    values:
+      layout: single
+      author_profile: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
