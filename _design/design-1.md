@@ -21,7 +21,7 @@ During this research, I carried out the following tasks:
 * Imaged the calcium activity in neurons of flies in 2-photon microscopy.
 
 ![2-photon experiment setup](../images/2psetup.png)  
-<p align="left"><i>(a) The 2-photon experiment setup in SolidWorks. (b) The real setup. Changed the fly holder mounting stage to the left side for a better user experience when finding the head under microscopy. (c) Saline system for the fly holder to maintain the temperature of the brain. (d) Calcium imaging of flies.</i></p>
+<p align="left"><i>(a) The 2-photon experiment setup in SolidWorks. (b) The real setup. Changed the fly holder mounting stage to the left side for a better user experience when finding the head under microscopy. (c) Saline system for the fly holder to maintain the temperature of the brain. (d) Calcium imaging of the fly's brain.</i></p>
 
 ![Fly flying](../images/FlyFlying.gif)  
 <p align="left"><i>Tethered fly is flying</i></p>
