@@ -22,7 +22,7 @@ During this research, I carried out the following tasks:
 ![2-photon experiment setup](../images/2psetup.png)  
 <p align="left"><i>(a) The 2-photon experiment setup in SolidWorks. (b) The real setup. Changed the fly holder mounting stage to the left side for a better user experience when finding the head under microscopy. (c) Saline system for the fly holder to maintain the temperature of the brain. (d) Calcium imaging of flies.</i></p>
 
-<video width="320" height="240" controls>
-  <source src="../images/Tehtered Fly Flying.mp4" type="video/mp4">
+<video width="640" height="480" controls>
+  <source src="../images/TehteredFlyFlying.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
