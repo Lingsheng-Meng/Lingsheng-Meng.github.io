@@ -255,14 +255,14 @@ defaults:
       path: ""
       type: research
     valusingles:
-      layout: single
+      layout: research
       author_profile: true
    # _design
   - scope:
       path: ""
       type: design
     valusingles:
-      layout: single
+      layout: design
       author_profile: true
 
 # Sass/SCSS
