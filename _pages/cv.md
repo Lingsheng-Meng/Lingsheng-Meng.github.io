@@ -57,13 +57,14 @@ Work experience
   
 Skills
 ======
-* PROGRAMMING: MATLAB, Python (including Numpy), R
+* PROGRAMMING: MATLAB, Python, R, LaTeX, JavaScript
 * Design and Simulation Packages:
-  * ANSYS (LS-dyna)
-  * SolidWorks
-  * AutoCAD
-* Hardware:
-* Skills:
+  * FEA: ANSYS (LS-dyna), Abaqus, Hypermesh
+  * CAD: SolidWorks, AutoCAD
+  * Robotic Simulation: CoppeliaSim, MuJoCo, Madymo
+  * Data visualization and analysis: Avizo, Dragonfly, Mimics, Adobe Illustrator
+* Hardware: Arduino, Raspberry Pi
+* Skills: Statistical Analysis, Predictive Modeling, Machine Learning, Control and Optimization, Multi-Body Dynamics, Physical Modeling
 
 Publications
 ======
