@@ -1,8 +1,8 @@
 ---
-title: "Reconstructing Pediatric-Fall-Induced Head Injuries with Subject-Specific Finite Element Head Models"
+title: "Design for in-wheel Motor Based Electric Wheels"
 collection: research
 excerpt: "Reconstructions of head-injury events using computational models<br/><img src='/images/UMTRI.png'>"
-permalink: /research/research-0
+permalink: /research/research-2
 date: 2019-12-15
 ---
 
