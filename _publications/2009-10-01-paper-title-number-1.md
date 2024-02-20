@@ -2,14 +2,14 @@
 title: "Designed innovative in-wheel driving electric wheel prototype for electric vehicles."
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This is the paper summary of the theory behind the electric wheel design'
 date: 2020-06-03
-venue: 'Journal 1'
+venue: 'Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering'
 paperurl: 'https://journals.sagepub.com/doi/10.1177/0954407020921736'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'Lingsheng Meng, Yuanji Zou, Yudi Qin, Zhichao Hou. (2020). &quot; Designed innovative in-wheel driving electric wheel prototype for electric vehicles.&quot; <i>Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering</i>. 234(12):2759-2770.'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+This is the paper summary of the theory behind the electric wheel design. We proposed a new vibration configuration to better absorb the vibration from in-wheel motor.
 
 [Download paper here](http://academicpages.github.io/files/paper1.pdf)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Lingsheng Meng, Yuanji Zou, Yudi Qin, Zhichao Hou. (2020). &quot; Designed innovative in-wheel driving electric wheel prototype for electric vehicles.&quot; <i>Proceedings of the Institution of Mechanical Engineers, Part D: Journal of Automobile Engineering</i>. 234(12):2759-2770.
