@@ -1,6 +1,6 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'Passed Doctoral Comprehensive Examination'
+date: 2024-06-24
 permalink: /posts/2012/08/blog-post-4/
 tags:
   - cool posts
