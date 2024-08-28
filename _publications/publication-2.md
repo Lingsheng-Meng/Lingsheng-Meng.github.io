@@ -6,7 +6,7 @@ permalink: /publications/publication-2
 date: 2021-6-15
 venue: '2020 IRCOBI Asia Proceedings'
 paperurl: ''
-citation: 'Y. Xuan, L. Meng, Y. Tao, and J. Hu. “Risk Factors Associated with Fall‐Induced Paediatric Head Injuries for Children 0‐3 Years Old” IRCOBI Asia Conference, Beijing, China, 2020'
+citation: 'Xuan Y, Meng L, Tao Y, Hu J (2020) “Risk Factors Associated with Fall-Induced Paediatric Head Injuries for Children 0-3 Years Old” IRCOBI Asia Conference, Beijing, China.'
 type: 'Conference'
 ---
 
