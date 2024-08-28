@@ -15,4 +15,4 @@ Education
 Research experience
 ======
 * [**Cockroach Antenna Tactile Signal Processing**](https://lingsheng-meng.github.io/research/research-1) \| Penn State
-  * Jan.2023 - present: Research Assistant (ongoing Thesis)
+
