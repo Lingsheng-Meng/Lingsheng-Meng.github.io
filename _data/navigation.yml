@@ -20,7 +20,7 @@ main:
     url: /design/
   
   - title: "Publications"
-    url: /publications/
+    url: /../_pages/publications.md/
 
   - title: "Blog Posts"
     url: /year-archive/
