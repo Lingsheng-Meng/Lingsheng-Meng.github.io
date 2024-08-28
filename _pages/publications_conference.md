@@ -20,7 +20,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-<div><h2> Conference and Talks </h2> </div>
+<div><h2> Conference and Talk </h2> </div>
 <hr style="border-color:black;">
 {% for post in site.publications reversed %}
   {% if post.type == 'Conference' %}
