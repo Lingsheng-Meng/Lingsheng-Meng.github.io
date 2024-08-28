@@ -1,13 +1,13 @@
 ---
-title: "Design for in-wheel Motor Based Electric Wheels"
+title: "Risk Factors Associated with Fall‐Induced Paediatric Head Injuries for Children 0‐3 Years Old "
 collection: publications
-excerpt: "Designed innovative in-wheel driving electric wheel prototype for electric vehicles"
-permalink: /publications/publication-1
-date: 2009-12-15
-venue: 'Experimental Economics'
-paperurl: 'https://rdcu.be/bp5z5'
-citation: 'Aldrich, E. & López Vargas, K. (2019). &quot;Experiments in High-Frequency Trading: Testing the Frequent Batch Auction.&quot; <i>Experimental Economics</i>, 23(2), 322-352.'
+excerpt: ''
+permalink: /publications/publication-2
+date: 2021-6-15
+venue: '2020 IRCOBI Asia Proceedings'
+paperurl: ''
+citation: ''
 type: 'Conference'
 ---
 
-Supervisor: Professor [Zhichao Hou](https://ieeexplore.ieee.org/author/37085377720)
+[Download](https://www.ircobi.org/wordpress/downloads/irc20-asia/pdf-files/2046a.pdf)
