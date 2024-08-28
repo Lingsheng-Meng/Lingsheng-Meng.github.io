@@ -1,5 +1,5 @@
 ---
-title: "Risk Factors Associated with Fall‐Induced Paediatric Head Injuries for Children 0‐3 Years Old "
+title: "Risk factors associated with fall‐induced paediatric head injuries for children 0‐3 years old "
 collection: publications
 excerpt: ''
 permalink: /publications/publication-2
