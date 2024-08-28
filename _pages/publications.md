@@ -10,7 +10,7 @@ author_profile: true
 
 <div><h2> Journal </h2></div>
 <hr style="border-color:black;">
-{% for post in site.research reversed %}
+{% for post in site.publications reversed %}
   {% if post.type == 'Journal' %}
     {% include archive-single.html %}
   {% endif %}
@@ -19,7 +19,7 @@ author_profile: true
 
 <div><h2> Conference and Talks </h2> </div>
 <hr style="border-color:black;">
-{% for post in site.research reversed %}
+{% for post in site.publications reversed %}
   {% if post.type == 'Conference' %}
     {% include archive-single.html %}
   {% endif %}
