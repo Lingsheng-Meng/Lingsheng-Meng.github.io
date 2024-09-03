@@ -13,6 +13,7 @@ I am currently a Ph.D. candidate at [Bio-Motion Systems Lab](https://sites.psu.e
 Education
 ======
 * Aug. 2021 --- May 2026: Ph.D. in [Mechanical Engineering](https://www.me.psu.edu/), The Pennsylvania State University (expected)
+* Aug. 2021 --- Aug. 2026: M.S. in Mechanical Engineering, The Pennsylvania State University
 * Aug. 2015 --- Jul. 2019: B.E. in Vehicle Engineering, [School of Vehicle and Mobility](http://www.svm.tsinghua.edu.cn/index.html), Tsinghua University
 * Sept. 2016 --- Jul.2019: B.A. in Economics, School of Economics and Management, Tsinghua University
 
