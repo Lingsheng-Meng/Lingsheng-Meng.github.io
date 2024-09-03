@@ -12,6 +12,7 @@ redirect_from:
 Education
 ======
 * B.E. in Vehicle Engineering, Tsinghua University, 2019
+* M.S. in Mechanical Engineering, The Pennsylvania State University, 2024
 * Ph.D. in Mechanical Engineering, The Pennsylvania State University, 2026 (expected)
 
 Research experience
