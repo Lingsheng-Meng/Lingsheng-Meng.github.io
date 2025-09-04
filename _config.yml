@@ -187,9 +187,6 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  design:
-    output: false
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
