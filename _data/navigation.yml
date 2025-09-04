@@ -16,8 +16,8 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Design"
-    url: /design/
+  # - title: "Design"
+  #   url: /design/
   
   - title: "Publications"
     url: /publications_conference/
