@@ -1,7 +1,7 @@
 ---
 title: "Reconstructing Pediatric-Fall-Induced Head Injuries with Subject-Specific Finite Element Head Models"
 collection: research
-excerpt: "Reconstructions of head-injury events using computational models<br/><img src='/images/UMTRI.png' width='60%'>"
+excerpt: "Reconstructions of head-injury events using computational models<br/><img src='/images/UMTRI.png' width='80%'>"
 permalink: /research/research-0
 date: 2019-12-15
 ---
