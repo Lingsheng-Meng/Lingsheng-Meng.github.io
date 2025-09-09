@@ -1,7 +1,7 @@
 ---
 title: "Fly’s Neuronal Activity Experiment Setup using Two-Photon Microscopy"
 collection: research
-excerpt: "Designed adjustable-angle mounting for the LED arena and a temperature control saline system for the fly holder in the two-photon microscopy area.<br/><img src='../images/2psetup.png',width='60%'>"
+excerpt: "Designed adjustable-angle mounting for the LED arena and a temperature control saline system for the fly holder in the two-photon microscopy area.<br/><img src='../images/2psetup.png' width='80%'>"
 permalink: /research/research-5
 date: 2022-8-8
 ---
