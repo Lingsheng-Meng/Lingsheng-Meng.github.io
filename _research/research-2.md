@@ -1,7 +1,7 @@
 ---
 title: "Novel In-Wheel Motor Electric Wheel Design"
 collection: research
-excerpt: "Designed innovative in-wheel driving electric wheel prototype for electric vehicles<br/><img src='/images/wheelonly.png',width='60%'>"
+excerpt: "Designed innovative in-wheel driving electric wheel prototype for electric vehicles<br/><img src='/images/wheelonly.png' width='60%'>"
 permalink: /research/research-2
 date: 2019-12-15
 ---
