@@ -37,6 +37,12 @@ During my undergraduate studies at Tsinghua University, I collaborated with my c
 - **Integrated flexible transmission mechanism** for compact, lightweight, and cost-effective design.  
 - **System-level optimization platform** for rapid parameter matching across different vehicle types.  
 - **Distributed drive control algorithms** improving energy efficiency (>10%) and enabling advanced maneuvers (on-spot turning, lateral movement, obstacle crossing).
+<p align="center">
+<video width="75%" controls>
+  <source src="../images/car_vibration_test.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</p>
 
 ---
 
@@ -47,6 +53,12 @@ During my undergraduate studies at Tsinghua University, I collaborated with my c
   - *Tsinghua University Challenge Cup (2018)* – Special Award (Top 2%)  
   - *Beijing Challenge Cup (2019)* – Special Award (Top 3%)  
   - *National Challenge Cup (2019)* – Special Award (Top 1%)
+<p align="center">
+<video width="75%" controls>
+  <source src="../images/demo_car_with_wheels.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</p>
 
 ---
 
