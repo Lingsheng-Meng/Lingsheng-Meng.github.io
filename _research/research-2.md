@@ -23,7 +23,7 @@ During my undergraduate studies at Tsinghua University, I collaborated with my c
 - Designed a **two-stage suspension in-wheel motor architecture** to overcome the major challenge of vibration amplification (0.5–25 Hz) in conventional hub motors.  
 - Developed **system-level evaluation metrics** and applied **multi-objective optimization algorithms** to balance ride comfort, safety, and energy efficiency.  
 - Built prototypes, conducted **bench testing**, and validated through **CarSim–Simulink simulations**, demonstrating >70% reduction in motor/body vibration compared to conventional designs.
-<video width="1920" height="1080" controls>
+<video width="60%" controls>
   <source src="../images/wheel_vibration.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
