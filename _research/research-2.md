@@ -10,8 +10,11 @@ Supervisor: Professor [Zhichao Hou](https://ieeexplore.ieee.org/author/370853777
 
 ### 🚗 Novel In-Wheel Motor Electric Wheel Design    
 During my undergraduate studies at Tsinghua University, I collaborated with my classmates and best friends, [Yudi Qin](https://ieeexplore.ieee.org/author/37088939544) and [Yuanji Zou](https://ieeexplore.ieee.org/author/37089476688), on a research project developing next-generation in-wheel motor technology to improve vehicle dynamics, vibration performance, and system integration. As a core team member, I contributed to the design, vibration analysis, and system-level optimization. This joint work was recognized at the national level and became one of the most unforgettable and rewarding experiences of my college years.
-![Team in THU](../images/team_THU.jpg){: width="400px" height="300px"}
-<p align="center"><i>Yudi, Yuanji(left), Lingsheng(right) </i></p>
+<p align="center">
+  <img src="../images/team_THU.jpg" alt="Team in THU" width="400">
+  <br>
+  <i>Yudi, Yuanji (left), Lingsheng (right)</i>
+</p>
 
 ---
 
