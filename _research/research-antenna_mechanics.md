@@ -5,6 +5,7 @@ permalink: /research/research-antenna_mechanics
 collection: research
 date: 2025-4-1
 ---
+Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/) 
 
 ## Mechanics of Insect Antenna
 
