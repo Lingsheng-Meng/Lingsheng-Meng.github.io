@@ -6,7 +6,7 @@ collection: research
 date: 2025-4-1
 ---
 
-## 🪶 Mechanics of Insect Antenna
+## Mechanics of Insect Antenna
 
 During my PhD research, I study the biomechanics of insect antenna to understand how morphology and material properties shape tactile sensing. This work combines **biological experiments, Micro-CT imaging, 3D reconstruction, and finite element modeling (FEM)** to reveal how antenna structure supports sensory function.  
 
