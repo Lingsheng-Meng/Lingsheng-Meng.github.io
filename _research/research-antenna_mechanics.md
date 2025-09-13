@@ -20,7 +20,7 @@ During my PhD research, I studied the biomechanics of insect antennae to underst
 - Tested the **kinematic chain model** hypothesis, showing annuli are linked by softer joints.  
 - Explored how **mechanical specializations** (e.g., tip-region folding structures) confer flexibility and prevent buckling.  
 <p align="left">
-  <img src="../images/antenna_mechanics.jpg" alt="antenna_mechanics" width="70%">
+  <img src="../images/antenna_mechanics.jpg" alt="antenna_mechanics" width="80%">
   <br>
   <i>project overview</i>
 </p>
