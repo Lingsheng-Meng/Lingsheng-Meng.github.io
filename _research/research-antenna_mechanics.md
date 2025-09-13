@@ -28,6 +28,18 @@ During my PhD research, I study the biomechanics of insect antenna to understand
 - Provided a **mechanistic framework** for how insect antennae convert touch forces into proprioceptive signals.  
 
 ---
+### 🔹 Skills & Tools
+- **Experimental biomechanics**: mechanical testing, cyclic bending, fracture analysis.  
+- **Imaging & 3D reconstruction**: Micro-CT scanning, segmentation, and morphology reconstruction.  
+- **Computational modeling**: finite element analysis (FEA) and kinematic chain modeling.  
+- **Data analysis**: signal processing, strain prediction, modeling validation.  
+
+**Software Used:**  
+- *Dragonfly* & *Avizo* – Micro-CT image segmentation & 3D reconstruction  
+- *Abaqus* – finite element modeling and simulation  
+- *MATLAB* – finite element model development, data analysis, signal processing, and visualization
+
+---
 
 ### 🔹 Achievements
 - **Preprint**: [bioRxiv, 2025](https://www.biorxiv.org/content/10.1101/2025.04.07.647640v1)  
