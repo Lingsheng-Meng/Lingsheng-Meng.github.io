@@ -1,6 +1,6 @@
 ---
 title: "Biomechanics of Insect Antenna"
-excerpt: "This project investigates how the structure and material properties of insect antenna shape tactile sensing. Through **experiments, Micro-CT imaging, 3D reconstruction, and finite element modeling**, I showed that the antenna flagellum functions as a kinematic chain system with regional specializations that enhance flexibility and prevent buckling. These findings provide a mechanistic framework linking antenna mechanics to proprioceptive strain sensing.<br/><img src='/images/antenna_mechanics.jpg'>"
+excerpt: "This project investigates how the structure and material properties of insect antenna shape tactile sensing. Through **experiments, Micro-CT imaging, 3D reconstruction, and finite element modeling**, I showed that the antenna flagellum functions as a kinematic chain system with regional specializations that enhance flexibility and prevent buckling. These findings provide a mechanistic framework linking antenna mechanics to proprioceptive strain sensing.<br/><img src='/images/antenna_mechanics.jpg' width='80%'>"
 permalink: /research/research-antenna_mechanics
 collection: research
 date: 2025-4-1
