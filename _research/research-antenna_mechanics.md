@@ -26,6 +26,12 @@ During my PhD research, I study the biomechanics of insect antenna to understand
 - Identified a **unique folding structure at the tip annuli**, allowing large bending without failure.  
 - Used FEM to **map strain at mechanosensory locations (campaniform sensilla)**, linking mechanics to sensory encoding.  
 - Provided a **mechanistic framework** for how insect antennae convert touch forces into proprioceptive signals.  
+<p align="center">
+<video width="75%" controls>
+  <source src="../images/antenna_mechanics.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+</p>
 
 ---
 ### 🔹 Skills & Tools
