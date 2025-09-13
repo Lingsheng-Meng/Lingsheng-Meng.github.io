@@ -61,4 +61,14 @@ During my undergraduate studies at Tsinghua University, I collaborated with my c
 </p>
 
 ---
+### 🔹 Skills & Tools
+- **Mechanical design & dynamics**: wheel–suspension integration, vibration reduction mechanisms.  
+- **Optimization & modeling**: multi-objective optimization, system-level parameter matching.  
+- **Prototype development & testing**: bench experiments, iterative design validation.  
+- **Simulation & control**: CarSim–Simulink co-simulation.  
+
+**Software Used:**  
+- *MATLAB/Simulink* – control algorithms, data analysis, optimization  
+- *SolidWorks / CAD tools* – structural design and finite element analysis (FEA)  
+
 
