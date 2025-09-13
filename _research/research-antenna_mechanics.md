@@ -8,7 +8,7 @@ date: 2025-4-1
 
 ## Mechanics of Insect Antenna
 
-During my PhD research, I study the biomechanics of insect antenna to understand how morphology and material properties shape tactile sensing. This work combines **biological experiments, Micro-CT imaging, 3D reconstruction, and finite element modeling (FEM)** to reveal how antenna structure supports sensory function.  
+During my PhD research, I study the biomechanics of insect antenna to understand how morphology and material properties shape tactile sensing. This work combines **biological experiments, Micro-CT imaging, 3D reconstruction, and finite element modeling** to reveal how antenna structure supports sensory function.  
 
 ---
 
@@ -31,7 +31,7 @@ During my PhD research, I study the biomechanics of insect antenna to understand
 ### 🔹 Skills & Tools
 - **Experimental biomechanics**: mechanical testing, cyclic bending, fracture analysis.  
 - **Imaging & 3D reconstruction**: Micro-CT scanning, segmentation, and morphology reconstruction.  
-- **Computational modeling**: finite element analysis (FEA) and kinematic chain modeling.  
+- **Computational modeling**: finite element analysis and kinematic chain modeling.  
 - **Data analysis**: signal processing, strain prediction, modeling validation.  
 
 **Software Used:**  
