@@ -18,7 +18,7 @@ As a new PhD student in the Mongeau Lab, I learned to operate the **3D wing moti
 - Analyzed **wingbeat frequency changes** following mechanical perturbations.  
 - Assisted in uncovering compensatory mechanisms underlying stable flight despite wing asymmetry.  
 <p align="center">
-  <img src="../images/fly_wing" alt="fly_wing" width="80%">
+  <img src="../images/fly_wing.png" alt="fly_wing" width="80%">
   <br>
   <i>project overview</i>
 </p>
