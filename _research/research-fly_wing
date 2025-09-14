@@ -1,6 +1,6 @@
 ---
 title: "Fly Behavior Analysis for Wing Damage Compensation during Flight"
-excerpt: "Conducted experiments and data analysis on tethered flies to study compensatory flight mechanisms under wing damage. Acquired and processed 11 datasets, reconstructed 3D flight behavior for 16 flies, and derived wing Euler angles using custom reconstruction software. Contributed analysis supporting Dr. Wael Salem’s PhD dissertation on insect flight biomechanics.<br/><img src='/images/antenna_mechanics.jpg' width='80%'>"
+excerpt: "Conducted experiments and data analysis on tethered flies to study compensatory flight mechanisms under wing damage. Acquired and processed 11 datasets, reconstructed 3D flight behavior for 16 flies, and derived wing Euler angles using custom reconstruction software. Contributed analysis supporting Dr. Wael Salem’s PhD dissertation on insect flight biomechanics.<br/><img src='/images/fly_wing.png' width='80%'>"
 permalink: /research/research-fly_wing
 collection: research
 date: 2022-12-20
