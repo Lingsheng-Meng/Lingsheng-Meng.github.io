@@ -23,11 +23,11 @@ Research experience
     * Obtained precise mechanical sensilla distribution in the antenna through a comprehensive review of literature, micro-CT, and SEM scanning. Segmented the 3D structure of strain sensilla from micro-CT data.
     * Developed a model of the antenna to link tactile features to distinct patterns on soft sensors using the [MuJoCo](https://mujoco.readthedocs.io/en/stable/overview.html) physics engine.
 
-* **Fly Behavior Analysis for Wing Damage Compensation during Flight** \| Penn State
+* [**Fly Behavior Analysis for Wing Damage Compensation during Flight**](https://lingsheng-meng.github.io/research/research-fly_wing) \| Penn State
   * Sept.2022 - Dec.2022: Research Assistant
   * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
     * Acquired and analyzed 11 experimental datasets on wing damage in rigid tethered flies during flight, with a focus on studying wingbeat frequency changes following perturbations.
-    * Performed 3D flight behavior reconstruction for 10 flies to derive wing Euler angles, using a custom 3D reconstruction software. These tasks assisted lab senior Dr.[Wael Salem](https://www.linkedin.com/in/wael-salem/) in his [dissertation](https://etda.libraries.psu.edu/catalog/19881was29).
+    * Performed 3D flight behavior reconstruction for 16 flies to derive wing Euler angles, using a custom 3D reconstruction software. These tasks assisted lab senior Dr.[Wael Salem](https://www.linkedin.com/in/wael-salem/) in his [dissertation](https://etda.libraries.psu.edu/catalog/19881was29).
 
 * [**Fly’s Neuronal Activity Experiment Setup using Two-Photon Microscopy**](https://lingsheng-meng.github.io/design/design-1) \| Penn State
   * May 2022 - Aug.2022: Research Assistant
