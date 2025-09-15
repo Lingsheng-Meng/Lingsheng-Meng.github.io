@@ -23,7 +23,8 @@ This project investigates how **insect-inspired physical intelligence** can impr
   <source src="../images/rob&sim.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
-  
+  <br>
+  <i> Robophysical antenna and its digital twin in MuJoCo</i>
 </p>
 ---
 
@@ -31,7 +32,15 @@ This project investigates how **insect-inspired physical intelligence** can impr
 - Developed computational models in **MuJoCo**, serving as a *digital twin* of both a biological antenna and a distributed tactile sensor system, enabling studies of biomechanics and guiding robotic sensor design.  
 - Demonstrated that **physical intelligence in biological antenna** increases tactile data sparsity and dispersion, improving feature classification.  
 - Identified **mechanical gradients and slower contact speeds** as critical for enhancing tactile perception.  
-- Developed a **novel tactile tensor framework** to represent and classify tactile scenes.  
+- Developed a **novel tactile tensor framework** to represent and classify tactile scenes.
+<p align="center">
+<video width="75%" controls>
+  <source src="../images/tactiletensor.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+  <br>
+  <i> Tactile tensor generation </i>
+</p>
 ---
 
 
