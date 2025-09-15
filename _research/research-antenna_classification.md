@@ -7,7 +7,7 @@ date: 2025-4-1
 ---
 Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/) 
 
-## 🐜 Physically Intelligent Insect-Inspired Antennae for Tactile Perception  
+## Physically Intelligent Insect-Inspired Antennae for Tactile Perception  
 
 **Title:** *Physically intelligent insect-inspired antennae enhance robotic tactile feature perception*  
 **Status:** Manuscript completed, ready for submission  
