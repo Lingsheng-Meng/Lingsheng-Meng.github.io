@@ -1,6 +1,6 @@
 ---
 title: "Physically Intelligent Insect-Inspired Antennae for Tactile Perception"
-excerpt: "This project investigates how **insect-inspired physical intelligence** can improve robotic tactile sensing by bioinspired computational models in MuJoCo and robophysical antennae.<br/><img src='/images/antenna_mechanics.jpg' width='80%'>"
+excerpt: "This project investigates how **insect-inspired physical intelligence** can improve robotic tactile sensing by bioinspired computational models in MuJoCo and robophysical antennae.<br/><img src='/images/antenna_classification.png' width='80%'>"
 permalink: /research/research-antenna_classification
 collection: research
 date: 2025-6-1
