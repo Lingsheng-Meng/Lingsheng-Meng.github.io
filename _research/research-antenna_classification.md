@@ -1,9 +1,9 @@
 ---
-title: "Biomechanics of Insect Antenna"
-excerpt: "This project investigates how the structure and material properties of insect antenna shape tactile sensing. Through **experiments, Micro-CT imaging, 3D reconstruction, and finite element modeling**, I showed that the antenna flagellum functions as a kinematic chain system with regional specializations that enhance flexibility and prevent buckling. These findings provide a mechanistic framework linking antenna mechanics to proprioceptive strain sensing.<br/><img src='/images/antenna_mechanics.jpg' width='80%'>"
-permalink: /research/research-antenna_mechanics
+title: "Physically Intelligent Insect-Inspired Antennae for Tactile Perception"
+excerpt: "This project investigates how **insect-inspired physical intelligence** can improve robotic tactile sensing by bioinspired computational models in MuJoCo and robophysical antennae.<br/><img src='/images/antenna_mechanics.jpg' width='80%'>"
+permalink: /research/research-antenna_classification
 collection: research
-date: 2025-4-1
+date: 2025-6-1
 ---
 Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/) 
 
@@ -15,23 +15,16 @@ This project investigates how **insect-inspired physical intelligence** can impr
 
 ### 🔹 Research Focus
 - Explored how **stiffness gradients** and **contact speeds** in antenna mechanics shape tactile signal processing.  
-- Developed **bioinspired computational models** and **robophysical experiments** based on cockroach antennae.  
-- Generated **tactile tensors**—spatiotemporal representations of tactile stimuli—under varied contact conditions.  
+- Developed **bioinspired computational models in MuJoCo** and **robophysical experiments** based on cockroach antennae.  
+- Generated **tactile tensors** (spatiotemporal representations of tactile stimuli) under varied contact conditions.  
 - Validated findings through **sim-to-real transfer** on a miniature distributed robotic antenna.  
 
 ---
 
 ### 🔹 Key Innovations
-- Demonstrated that **physical intelligence in antenna design** increases data sparsity and dispersion, improving feature classification.  
+- Developed computational models in **MuJoCo**, serving as a *digital twin* of both a biological antenna and a distributed tactile sensor system, enabling studies of biomechanics and guiding robotic sensor design.  
+- Demonstrated that **physical intelligence in biological antenna** increases tactile data sparsity and dispersion, improving feature classification.  
 - Identified **mechanical gradients and slower contact speeds** as critical for enhancing tactile perception.  
 - Developed a **novel tactile tensor framework** to represent and classify tactile scenes.  
-- Achieved efficient, adaptive tactile sensing **without high computational costs**, unlike conventional soft robotic sensors or vision systems.  
-
 ---
 
-### 🔹 Achievements
-- Completed manuscript: *Physically intelligent insect-inspired antennae enhance robotic tactile feature perception*.  
-- Established a **generalizable approach** for integrating physical intelligence into robotic sensor design.  
-- Advanced understanding of how **bioinspired morphology and dynamics** improve robotic tactile feature perception.  
-
----
