@@ -28,3 +28,12 @@ This project investigates how **insect-inspired physical intelligence** can impr
 - Developed a **novel tactile tensor framework** to represent and classify tactile scenes.  
 ---
 
+
+### 🔹 Skills & Tools
+- **Bioinspired design & robotics**: translating insect antenna mechanics into robotic prototypes.  
+- **Computational modeling**: develop computational models in a physical engine (**MuJoCo**).  
+- **Machine learning for classification**: analyzing spatiotemporal tactile signals for feature recognition.  
+
+**Software Used:**  
+- *Python* – **MuJoCo**, data analysis 
+- *MATLAB* – machine learning, signal processing, and experimental data visualization  
