@@ -9,10 +9,6 @@ Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/
 
 ## Physically Intelligent Insect-Inspired Antennae for Tactile Perception  
 
-**Title:** *Physically intelligent insect-inspired antennae enhance robotic tactile feature perception*  
-**Status:** Manuscript completed, ready for submission  
-
-**Overview:**  
 This project investigates how **insect-inspired physical intelligence** can improve robotic tactile sensing. By mimicking the mechanical gradients and active sensing strategies of cockroach antennae, I demonstrated how morphology and dynamics can simplify tactile classification and reduce computational demands in robotics.  
 
 ---
