@@ -18,7 +18,13 @@ This project investigates how **insect-inspired physical intelligence** can impr
 - Developed **bioinspired computational models in MuJoCo** and **robophysical experiments** based on cockroach antennae.  
 - Generated **tactile tensors** (spatiotemporal representations of tactile stimuli) under varied contact conditions.  
 - Validated findings through **sim-to-real transfer** on a miniature distributed robotic antenna.  
-
+<p align="center">
+<video width="75%" controls>
+  <source src="../images/rob&sim.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+  
+</p>
 ---
 
 ### 🔹 Key Innovations
