@@ -14,7 +14,7 @@ This project develops a **neuro-mechanical model of the cockroach antenna** to s
 ---
 
 ### 🔹 Research Focus
-- Modeled antenna mechanics as a **multi-joint kinematic chain** within a physics-based simulation environment (**MuJoCo**).  
+- Modeled [antenna mechanics as a **multi-joint kinematic chain**](https://lingsheng-meng.github.io/research/research-antenna_mechanics) within [a physics-based simulation environment (**MuJoCo**)](https://lingsheng-meng.github.io/research/research-antenna_classification).  
 - Derived **spatiotemporal strain patterns (tactile tensors)** from antennal deflections under different contact conditions.  
 - Developed phenomenological models of **campaniform and hair sensilla** to encode mechanical strain into spike trains.  
 - Validated model predictions against **extracellular recordings** from cockroach antennal nerves.  
@@ -36,10 +36,11 @@ This project develops a **neuro-mechanical model of the cockroach antenna** to s
 - **Machine learning**: SNN training and tactile feature classification.  
 
 **Software Used:**  
-- *MuJoCo* – physics-based antenna simulation  
+- [*MuJoCo*](https://mujoco.readthedocs.io/en/stable/overview.html) – physics-based antenna simulation  
 - *MATLAB* & *Arduino* & *Basler Carema*- electrophysiology experiment and control
-- *Kilosort4* and *phy* – spike sorting of neural recordings
+- *OpenEphys* & *Nerualnexus* - ephys dac and CM32 probe 
+- [SpikeInterface](https://spikeinterface.readthedocs.io/en/stable/) & [*Kilosort4*](https://kilosort.readthedocs.io/en/latest/) & [*phy*](https://phy.readthedocs.io/en/latest/) – spike sorting of neural recordings
 - *Python* – electrophysiology data processing and analysis    
-- *Pytorch* & *SpikingJelly* – SNN training and tactile feature classification  
+- *Pytorch* & [*SpikingJelly*](https://spikingjelly.readthedocs.io/zh-cn/latest/index.html#index-en) – SNN training and tactile feature classification  
 
 ---
