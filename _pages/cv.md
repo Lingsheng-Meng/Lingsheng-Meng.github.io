@@ -25,13 +25,13 @@ Research experience
     * Validated model predictions against extracellular nerve recordings and trained SNNs to classify tactile features from simulated spike trains.   
 
 * [**Physically Intelligent Insect-Inspired Antennae for Tactile Perception**](https://lingsheng-meng.github.io/research/research-antenna_classification) \| Penn State & CU Boulder 
-  * 2023 – 2024: PhD Research  
+  * 2023 – 2025: PhD Research  
   * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/), Professor [Kaushik Jayaram](https://www.colorado.edu/mechanical/kaushik-jayaram)
     * Built a physics-based model of cockroach antennae (MuJoCo) to study how stiffness gradients and contact speed affect tactile sensing.  
     * Designed insect-inspired robotic antennae and demonstrated improved tactile feature classification through tactile tensors, ML analysis, and sim-to-real robotic validation.  
    
 * [**Biomechanics of Insect Antenna**](https://lingsheng-meng.github.io/research/research-antenna_mechanics) \| Penn State  
-  * 2021 – Present: PhD Research  
+  * 2023 – 2024: PhD Research  
   * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
     * Performed 16 cyclic bending experiments and 3 Micro-CT imaging, and developed 3 finite element models to study annulus-level mechanics of cockroach antennae.  
     * Revealed a kinematic chain system and unique tip specializations that confer flexibility, prevent buckling, and shape proprioceptive strain sensing.  
