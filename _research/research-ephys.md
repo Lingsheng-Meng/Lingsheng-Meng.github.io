@@ -38,7 +38,7 @@ This project develops a **neuro-mechanical model of the cockroach antenna** to s
 **Software Used:**  
 - [*MuJoCo*](https://mujoco.readthedocs.io/en/stable/overview.html) – physics-based antenna simulation  
 - *MATLAB* & *Arduino* & *Basler Carema*- electrophysiology experiment and control
-- *OpenEphys* & *Nerualnexus* - ephys dac and CM32 probe 
+- *OpenEphys* & *NeuroNexus* - ephys dac and CM32 probe 
 - [SpikeInterface](https://spikeinterface.readthedocs.io/en/stable/) & [*Kilosort4*](https://kilosort.readthedocs.io/en/latest/) & [*phy*](https://phy.readthedocs.io/en/latest/) – spike sorting of neural recordings
 - *Python* – electrophysiology data processing and analysis    
 - *Pytorch* & [*SpikingJelly*](https://spikingjelly.readthedocs.io/zh-cn/latest/index.html#index-en) – SNN training and tactile feature classification  
