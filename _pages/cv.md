@@ -73,12 +73,14 @@ Skills
 ======
 * PROGRAMMING: MATLAB, Python, R, LaTeX, JavaScript
 * Design and Simulation Packages:
+  * Machine learning: PyTorch, SNN, CNN, SVM, LDA  
   * FEA: ANSYS (LS-dyna), Abaqus, Hypermesh
   * CAD: SolidWorks, AutoCAD
   * Robotic Simulation: CoppeliaSim, MuJoCo, Madymo
   * Data visualization and analysis: Avizo, Dragonfly, Mimics, Adobe Illustrator
 * Hardware: Arduino, Raspberry Pi
-* Skills: Statistical Analysis, Predictive Modeling, Machine Learning, Control and Optimization, Multi-Body Dynamics, Physical Modeling
+* Skills: biomechanics, neuro-mechanical modeling, electrophysiology (ephys), 2-photon microscopy, spike sorting, machine learning (CNN, SNN), robotics prototyping, 3D reconstruction, finite element analysis (FEA), statistical analysis, control and optimization, multi-body dynamics
+
 
 <!--
 Publications
