@@ -20,6 +20,7 @@ This project develops a **neuro-mechanical model of the cockroach antenna** to s
 - Validated model predictions against **extracellular recordings** from cockroach antennal nerves.  
 - Trained **spiking neural networks (SNNs)** on simulated spike trains to classify tactile features.  
 <p align="center">
+  <img src="../images/ephys.jpg" alt="ephys" width="80%">
   <br>
   <i> Electrophysiology experiment and spike sorting</i>
 </p>
