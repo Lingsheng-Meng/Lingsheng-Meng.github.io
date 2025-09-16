@@ -24,6 +24,7 @@ This project develops a **neuro-mechanical model of the cockroach antenna** to s
   <br>
   <i> Electrophysiology experiment and spike sorting</i>
 </p>
+
 ---
 
 ### 🔹 Key Innovations
