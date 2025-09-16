@@ -17,11 +17,24 @@ Education
 
 Research experience
 ======
-* [**Cockroach Antenna Tactile Signal Processing**](https://lingsheng-meng.github.io/research/research-1) \| Penn State
-  * Jan.2023 - present: Research Assistant (ongoing Thesis)
+* [**Neuro-Mechanical Computational Model of Insect Antennae**](https://lingsheng-meng.github.io/research/research-ephys) \| Penn State  
+  * 2024 – Present: PhD Research  
+  * Supervisors: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
+    * Developed a neuro-mechanical model of cockroach antennae by integrating a physics-based MuJoCo model with neural encoding of mechanosensory units.
+    * Performed 22 extracellular nerve recordings of cockroaches.
+    * Validated model predictions against extracellular nerve recordings and trained SNNs to classify tactile features from simulated spike trains.   
+
+* [**Physically Intelligent Insect-Inspired Antennae for Tactile Perception**](https://lingsheng-meng.github.io/research/research-antenna_classification) \| Penn State & CU Boulder 
+  * 2023 – 2024: PhD Research  
+  * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/), Professor Kaushik Jayaram
+    * Built a physics-based model of cockroach antennae (MuJoCo) to study how stiffness gradients and contact speed affect tactile sensing.  
+    * Designed insect-inspired robotic antennae and demonstrated improved tactile feature classification through tactile tensors, ML analysis, and sim-to-real robotic validation.  
+   
+* [**Biomechanics of Insect Antenna**](https://lingsheng-meng.github.io/research/research-antenna_mechanics) \| Penn State  
+  * 2021 – Present: PhD Research  
   * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
-    * Obtained precise mechanical sensilla distribution in the antenna through a comprehensive review of literature, micro-CT, and SEM scanning. Segmented the 3D structure of strain sensilla from micro-CT data.
-    * Developed a model of the antenna to link tactile features to distinct patterns on soft sensors using the [MuJoCo](https://mujoco.readthedocs.io/en/stable/overview.html) physics engine.
+    * Performed 16 cyclic bending experiments and 3 Micro-CT imaging, and developed 3 finite element models to study annulus-level mechanics of cockroach antennae.  
+    * Revealed a kinematic chain system and unique tip specializations that confer flexibility, prevent buckling, and shape proprioceptive strain sensing.  
 
 * [**Fly Behavior Analysis for Wing Damage Compensation during Flight**](https://lingsheng-meng.github.io/research/research-fly_wing) \| Penn State
   * Sept.2022 - Dec.2022: Research Assistant
