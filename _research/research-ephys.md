@@ -1,6 +1,6 @@
 ---
 title: "Neuro-Mechanical Computational Model of Insect Antennae"
-excerpt: "Developed a physics-based model of cockroach antennae (MuJoCo) to study how mechanical deflections generate neural responses for tactile perception. Validated model predictions against extracellular nerve recordings and used spiking neural networks (SNN) to classify tactile features, demonstrating efficient spike-based coding for tactile sensing. <br/><img src='/images/ephys.jpg' width='80%'>"
+excerpt: "Developed a **physics-based model of cockroach antennae** (MuJoCo) to study how mechanical deflections generate neural responses for tactile perception. Validated model predictions against **extracellular nerve recordings** and used spiking neural networks (**SNN**) to classify tactile features, demonstrating efficient spike-based coding for tactile sensing. <br/><img src='/images/ephys.jpg' width='80%'>"
 permalink: /research/research-ephys
 collection: research
 date: 2025-9-15
