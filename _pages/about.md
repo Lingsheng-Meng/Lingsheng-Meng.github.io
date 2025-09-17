@@ -25,7 +25,7 @@ Honors and Awards
 * Nov. 2019 --- The **Special Award** of The 16th National Challenge Cup (**Top 1%**) 
 * Jul. 2019 --- **Excellent Thesis** award in School of Vehicle and Mobility (**10 out of 90**)
 * May. 2019 --- The **Special Award** of The 10th Beijing Challenge Cup (**Top 3-5%**)
-* Apr. 2018 --- The **Special Award** of The 36th Tsinghua University Challenge Cup (**6 out of 302**)
+* Apr. 2018 --- The **Special Award** of The 36th Tsinghua University Challenge Cup (**Top 2%**)
 
 
 <script>
