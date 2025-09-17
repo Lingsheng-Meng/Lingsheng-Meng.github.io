@@ -9,13 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-# Education
+Education
+======
 * B.E. in Vehicle Engineering, Tsinghua University, 2019
 * M.S. in Mechanical Engineering, The Pennsylvania State University, 2024
 * Ph.D. in Mechanical Engineering, The Pennsylvania State University, 2026 (expected)
 
-# Research Experience
-## <span style="color:darkblue">PhD Thesis Research</span>  
+Research Experience
+======
+<span style="color:darkblue">PhD Thesis Research</span>  
 * [**Neuro-Mechanical Computational Model of Insect Antennae**](https://lingsheng-meng.github.io/research/research-ephys) \| Penn State  
   * 2024 – Present: PhD Research  
   * Supervisors: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
@@ -35,7 +37,7 @@ redirect_from:
     * Performed 16 cyclic bending experiments and 3 Micro-CT imaging, and developed 3 finite element models to study annulus-level mechanics of cockroach antennae.  
     * Revealed a kinematic chain system and unique tip specializations that confer flexibility, prevent buckling, and shape proprioceptive strain sensing.
 
-## <span style="color:darkblue">Other PhD Research</span>  
+<span style="color:darkblue">Other PhD Research</span>  
 * [**Fly Behavior Analysis for Wing Damage Compensation during Flight**](https://lingsheng-meng.github.io/research/research-fly_wing) \| Penn State
   * Sept.2022 - Dec.2022: Research Assistant
   * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
@@ -47,7 +49,7 @@ redirect_from:
   * Supervisor: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
     * Designed adjustable-angle mounting for the semicylinder LED arena and a temperature control saline system for the fly holder in the two-photon microscopy area.
 
-## <span style="color:darkblue">Prior Experience</span> 
+<span style="color:darkblue">Prior Experience</span> 
 * [**Reconstructing Pediatric-Fall Induced Head Injuries**](https://lingsheng-meng.github.io/research/research-0) \| University of Michigan
   * Aug.2019 - Dec.2019: Research Assistant
   * Supervisor: Professor [Jingwen Hu](https://sites.google.com/umich.edu/jingwenhu/home)
@@ -63,13 +65,15 @@ redirect_from:
     * Developed 3 physical prototypes of the designed electric wheel, which were entered into prestigious competitions, including Tsinghua University (Apr. 2018), Beijing (May. 2019), and the [National (Nov. 2019)](http://www.svm.tsinghua.edu.cn/essay/12/1543.html) Challenge Cup. Achieved special awards (2%, 3%, 1%, respectively) in all competitions.
     * Published as the first author in both SAECCE 2019 conference proceedings and the [Journal of Automobile Engineering](https://journals.sagepub.com/doi/10.1177/0954407020921736).
 
-# Work Experience
+Work Experience
+======
 * Summer 2018: Assistant Engineer
   * [Dongfeng Motor Corporation Technical Center](http://www.dongfeng-global.com/)
     * Helped with the Kinematics and compliance (K&C) testing for prototype cars.
     * Conducted statistical analysis on data obtained from bounce test, roll test, lateral and longitudinal compliance tests
   
-# Skills
+Skills
+======
 * PROGRAMMING: MATLAB, Python, R, LaTeX, JavaScript
 * Design and Simulation Packages:
   * Machine learning: PyTorch, SNN, CNN, SVM, LDA  
