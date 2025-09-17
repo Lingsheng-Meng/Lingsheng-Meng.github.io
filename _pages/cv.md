@@ -10,7 +10,6 @@ redirect_from:
 {% include base_path %}
 
 # Education
-======
 * B.E. in Vehicle Engineering, Tsinghua University, 2019
 * M.S. in Mechanical Engineering, The Pennsylvania State University, 2024
 * Ph.D. in Mechanical Engineering, The Pennsylvania State University, 2026 (expected)
@@ -65,14 +64,12 @@ redirect_from:
     * Published as the first author in both SAECCE 2019 conference proceedings and the [Journal of Automobile Engineering](https://journals.sagepub.com/doi/10.1177/0954407020921736).
 
 # Work Experience
-======
 * Summer 2018: Assistant Engineer
   * [Dongfeng Motor Corporation Technical Center](http://www.dongfeng-global.com/)
     * Helped with the Kinematics and compliance (K&C) testing for prototype cars.
     * Conducted statistical analysis on data obtained from bounce test, roll test, lateral and longitudinal compliance tests
   
 # Skills
-======
 * PROGRAMMING: MATLAB, Python, R, LaTeX, JavaScript
 * Design and Simulation Packages:
   * Machine learning: PyTorch, SNN, CNN, SVM, LDA  
