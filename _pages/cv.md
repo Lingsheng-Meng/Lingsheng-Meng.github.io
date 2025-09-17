@@ -16,7 +16,6 @@ redirect_from:
 * Ph.D. in Mechanical Engineering, The Pennsylvania State University, 2026 (expected)
 
 # Research Experience
-======
 ## <span style="color:darkblue">PhD Thesis Research</span>  
 * [**Neuro-Mechanical Computational Model of Insect Antennae**](https://lingsheng-meng.github.io/research/research-ephys) \| Penn State  
   * 2024 – Present: PhD Research  
