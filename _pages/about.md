@@ -19,15 +19,15 @@ Education
 
 Honors and Awards
 ======
-| Award | Date |
-|-------|------|
-| **Best Poster Presentation** in Center for Neural Engineering 2025 Retreat \| Penn State | Aug. 2025 |
-| DCB **Best Student Presentation** finalist in SICB 2025 \| Atlanta | Jan. 2025 |
-| DCB **Best Student Poster** finalist in SICB 2024 \| Seattle | Jan. 2024 |
-| The **Special Award** of The 16th National Challenge Cup (**Top 1%**) | Nov. 2019 |
-| **Excellent Thesis** award in School of Vehicle and Mobility (**10 out of 90**) | Jul. 2019 |
-| The **Special Award** of The 10th Beijing Challenge Cup (**Top 3–5%**) | May. 2019 |
-| The **Special Award** of The 36th Tsinghua University Challenge Cup (**6 out of 302**) | Apr. 2018 |
+<div style="display:flex; justify-content:space-between;">
+  <span>**Best Poster Presentation** in Center for Neural Engineering 2025 Retreat \| Penn State</span>
+  <span>Aug. 2025</span>
+</div>
+
+<div style="display:flex; justify-content:space-between;">
+  <span>DCB **Best Student Presentation** finalist in SICB 2025 \| Atlanta</span>
+  <span>Jan. 2025</span>
+</div>
 
 
 <script>
