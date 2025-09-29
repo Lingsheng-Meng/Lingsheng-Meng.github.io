@@ -55,8 +55,8 @@ During my PhD research, I studied the biomechanics of insect antennae to underst
 
 ### 🔹 Achievements
 - **Preprint**: [bioRxiv, 2025](https://www.biorxiv.org/content/10.1101/2025.04.07.647640v1)  
-- **Journal Submission**: *Journal of Experimental Biology* (in 2nd round of revision)  
-- **Manuscript Title**: *Mechanical and morphological features of the filiform antenna support a kinematic chain system, confer flexibility and predict strain for proprioception*  
+- **Journal Submission**: *Journal of Experimental Biology* (accepted)  
+- **Manuscript Title**: *Structure and mechanics of cockroach antennae confer flexibility and shape strain transmission for proprioception*  
 - Advanced understanding of **biomechanical adaptations in insect tactile sensing**, bridging biology, mechanics, and modeling.  
 
 ---
