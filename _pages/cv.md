@@ -22,8 +22,8 @@ Research Experience
   * 2025 – Present: PhD Research  
   * Supervisors: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/), Professor [Kaushik Jayaram](https://www.colorado.edu/mechanical/kaushik-jayaram)
     * Collaborated with CU Boulder on developing and applying a 2.2-g wireless electrophysiology backpack integrated with an Intan chip for neural recording, stimulation, and onboard camera streaming. 
-    * Conducted **neural stimulation experiments** targeting the AMMC region of the cockroach brain to study escape and antennal responses.
-    * Implemented **in vivo neural recordings** in freely behaving cockroaches.   
+    * Conducted neural stimulation experiments targeting the AMMC region of the cockroach brain to study escape and antennal responses.
+    * Implemented in vivo neural recordings in freely behaving cockroaches.   
 
 * [**Neuro-Mechanical Computational Model of Insect Antennae**](https://lingsheng-meng.github.io/research/research-ephys) \| Penn State  
   * 2024 – Present: PhD Research  
