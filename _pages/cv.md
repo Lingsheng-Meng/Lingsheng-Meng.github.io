@@ -18,6 +18,13 @@ Education
 Research Experience
 ======
 <span style="color:darkblue">PhD Thesis Research</span>  
+* [**Wireless Neural Recording and Stimulation in Freely Moving Cockroaches (cyborg insect)**](https://lingsheng-meng.github.io/research/research-backpack) \| Penn State & CU Boulder 
+  * 2025 – Present: PhD Research  
+  * Supervisors: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
+    * Developed a neuro-mechanical model of cockroach antennae by integrating a physics-based MuJoCo model with neural encoding of mechanosensory units.
+    * Performed 22 extracellular nerve recordings of cockroaches.
+    * Validated model predictions against extracellular nerve recordings and trained SNNs to classify tactile features from simulated spike trains.   
+
 * [**Neuro-Mechanical Computational Model of Insect Antennae**](https://lingsheng-meng.github.io/research/research-ephys) \| Penn State  
   * 2024 – Present: PhD Research  
   * Supervisors: Professor [Jean-Michel Mongeau](https://sites.psu.edu/mongeau/PIbio/)
