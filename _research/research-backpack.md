@@ -20,9 +20,12 @@ This project integrates **wireless neurotechnology** with insect behavioral expe
 - Implemented **neural recording electrodes** in the brain to monitor neural activity during **freely behaving cockroach experiments**.  
 - Found preliminary correlations between **neural activity** and **hissing behavior** in Madagascar cockroach.   
 <p align="center">
-  <img src="../images/ephys.jpg" alt="ephys" width="80%">
+<video width="75%" controls>
+  <source src="../images/backpack.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
   <br>
-  <i> Electrophysiology experiment and spike sorting</i>
+  <i> Backpack on the freely behaving cockroach and antenna response to the stimulation. </i>
 </p>
 
 ---
