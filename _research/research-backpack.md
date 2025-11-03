@@ -1,6 +1,6 @@
 ---
 title: "Wireless Neural Recording and Stimulation in Freely Moving Cockroaches 🪳"
-excerpt: "Developed and applied a 2.2 g wireless electrophysiology backpack integrating an Intan chip, Bluetooth communication, and an onboard camera to study neural control of behavior in freely moving cockroaches. Conducted in vivo neural stimulation and recording experiments, revealing how brain activity modulates behaviors. <br/><img src='/images/ephys.jpg' width='80%'>"
+excerpt: "Developed and applied a 2.2 g wireless electrophysiology backpack integrating an Intan chip, Bluetooth communication, and an onboard camera to study neural control of behavior in freely moving cockroaches. Conducted in vivo neural stimulation and recording experiments, revealing how brain activity modulates behaviors. <br/><img src='/images/backpack.png' width='80%'>"
 permalink: /research/research-backpack
 collection: research
 date: 2025-11-3
